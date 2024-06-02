@@ -1,0 +1,9 @@
+gemini
+openai
+python-dotenv
+crewai
+crewai-tools
+pandas
+langchain
+langchain-google-genai
+openpyxl

@@ -1,0 +1,9 @@
+# Ignore aiagent (environment) folder
+aiagent/
+
+# Ignore .env file
+.env
+
+__pycache__/
+
+README.md
